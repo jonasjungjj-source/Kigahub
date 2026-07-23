@@ -1,0 +1,14 @@
+{
+  "name": "Sonnenhaus Kindergarten",
+  "short_name": "Sonnenhaus",
+  "description": "Kalender, Mitteilungen und Onboarding für Kindergartenfamilien.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ec",
+  "theme_color": "#F6B73C",
+  "icons": [
+    { "src": "icons/icon-192.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-512.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
